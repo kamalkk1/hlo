@@ -1,3 +1,34 @@
+Overview
+
+
+This project consists of two tasks: Task 1 and Task 2. Each task focuses on creating a responsive web page using HTML5 and CSS3. 
+The goal is to implement the tasks while following best practices in front-end development and considering accessibility.
+
+Task 1: Requirements Completed
+For Task 1, I have successfully met the following requirements:
+
+Utilized HTML5 and CSS3 for creating the web page.
+Ensured responsiveness across various devices and screen sizes.
+Followed industry best practices in front-end development.
+
+
+Task 2: JavaScript Filtering Feature
+
+
+The main objective of this task is to enhance user experience by providing the ability to filter a list of items from the provided data using various criteria. Users will be able to seamlessly interact with the filtering options, and the page will respond efficiently to their selections.
+
+Implementation
+To achieve this,i  followed these steps:
+
+Displayed the list of items from the data.js, utilizing HTML to structure the content appropriately.
+
+Created filter options, such as category and availability, using HTML elements. These options will serve as user inputs for filtering.
+
+Implement JavaScript code to handle user interactions and filtering. The JavaScript code will dynamically update the displayed items based on the selected criteria.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
